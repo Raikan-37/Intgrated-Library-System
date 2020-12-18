@@ -89,33 +89,4 @@ class Database:
 
 
 
-#book_1 = Book(1, 'abcd', 'xyz', 'pqr', 1000, 10)
-#borrower_1 = Borrower('Ashish', 1, 20, '2020-11-19')
-
-
-
-
-#db=Database('store.db')
-#book_2 = Book(2, 'abdc', 'zyx', 'rqp', 800, 13)
-
-#book_3 = Book(2, 'abdc', 'zyx', 'rqp', 900, 700)
-
-#db.add_book(book_1)
-#db.add_book(book_2)
-
-#books = db.display_book()
-#print(books)
-
-#print("--------------------")
-
-#db.update(book_2, 900, 3)
-#remove_book(book_1)
-
-#books = db.display_book()
-#print(books)
-
-
-
-
-
 
